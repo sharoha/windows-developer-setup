@@ -32,4 +32,4 @@ scoop install vim
 scoop install openjdk11
 scoop install gradle
 scoop install vscode
-
+scoop install idea
